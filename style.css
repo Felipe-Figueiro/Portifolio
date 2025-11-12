@@ -78,3 +78,11 @@ main section {
     background: linear-gradient(45deg, #DFD8C6 0% 5%, #2D2E2E 20% 50%, #C76436 55% 55%, #2D2E2E 60% 80%, #DFD8C6 95% 100%);
    
 }
+.centra{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    
+    
+}
